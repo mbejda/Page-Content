@@ -24,7 +24,7 @@
   ],
   "dependencies": {
     "cheerio": "1.0.0-rc.2",
-    "reqdata": "2.1.0",
+    "got": "^9.3.2",
     "traverse": "0.6.6",
     "web-auto-extractor": "1.0.17"
   }
