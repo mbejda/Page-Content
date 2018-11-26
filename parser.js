@@ -43,7 +43,6 @@ function getText(data) {
       " "
     )
     .replace(/\s+/g, " ")
-    .toLowerCase();
 }
 function getMarkup(data) {
   const $ = cheerio.load(data);
